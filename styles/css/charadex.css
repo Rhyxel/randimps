@@ -72,11 +72,11 @@ body {
   --cd-rarity-common-bg: #d58353;
   --cd-rarity-common-txt: #fcf4ed;
 
-  --cd-rarity-uncommon-bg: #e0bb68;
-  --cd-rarity-uncommon-txt: var(--cd-rarity-common-txt);
+  --cd-rarity-odd-bg: #e0bb68;
+  --cd-rarity-odd-txt: var(--cd-rarity-common-txt);
   
-  --cd-rarity-rare-bg: #97b34e;
-  --cd-rarity-rare-txt: var(--cd-rarity-common-txt);
+  --cd-rarity-peculiar-bg: #97b34e;
+  --cd-rarity-peculiar-txt: var(--cd-rarity-common-txt);
 
   --cd-rarity-veryrare-bg: #548b71;
   --cd-rarity-veryrare-txt: var(--cd-rarity-common-txt);
