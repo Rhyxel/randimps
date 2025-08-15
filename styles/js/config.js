@@ -46,7 +46,7 @@ charadex.sheet = {
     statuses: ['All', 'Rollable', 'Owned'],
     rarity: ['All', 'Common', 'Odd', 'Peculiar'],
     species: ['All', 'Randimp'],
-    itemTypes: ['All', 'Currency', 'Bait'],
+    itemTypes: ['All', 'Currency', 'Bait' 'Awards', 'Alterations'],
     traitTypes: ['All', 'Ears', 'Feet', 'Horns', 'Eyes', 'Tail', 'Addons', 'Tendency']
 
   }
